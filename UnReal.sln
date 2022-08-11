@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnReal", "UnReal\UnReal.vcxproj", "{7A80F1C2-17B7-456C-93D8-E57B3764B7CF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "commit", "commit\commit.vcxproj", "{F27A2403-FE4C-4960-BDDA-85768ABE3616}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{7A80F1C2-17B7-456C-93D8-E57B3764B7CF}.Release|x64.Build.0 = Release|x64
 		{7A80F1C2-17B7-456C-93D8-E57B3764B7CF}.Release|x86.ActiveCfg = Release|Win32
 		{7A80F1C2-17B7-456C-93D8-E57B3764B7CF}.Release|x86.Build.0 = Release|Win32
+		{F27A2403-FE4C-4960-BDDA-85768ABE3616}.Debug|x64.ActiveCfg = Debug|x64
+		{F27A2403-FE4C-4960-BDDA-85768ABE3616}.Debug|x64.Build.0 = Debug|x64
+		{F27A2403-FE4C-4960-BDDA-85768ABE3616}.Debug|x86.ActiveCfg = Debug|Win32
+		{F27A2403-FE4C-4960-BDDA-85768ABE3616}.Debug|x86.Build.0 = Debug|Win32
+		{F27A2403-FE4C-4960-BDDA-85768ABE3616}.Release|x64.ActiveCfg = Release|x64
+		{F27A2403-FE4C-4960-BDDA-85768ABE3616}.Release|x64.Build.0 = Release|x64
+		{F27A2403-FE4C-4960-BDDA-85768ABE3616}.Release|x86.ActiveCfg = Release|Win32
+		{F27A2403-FE4C-4960-BDDA-85768ABE3616}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
