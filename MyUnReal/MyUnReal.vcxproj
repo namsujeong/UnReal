@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7a80f1c2-17b7-456c-93d8-e57b3764b7cf}</ProjectGuid>
-    <RootNamespace>UnReal</RootNamespace>
+    <ProjectGuid>{7928fd5c-0c51-4c13-8e3d-9536b2f2867c}</ProjectGuid>
+    <RootNamespace>MyUnReal</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>MyUnReal</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
