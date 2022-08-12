@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\82103\\documents\\unreal projects\\myunrealproject\\source\\myunrealproject\\myunrealproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\82103\\documents\\unreal projects\\myunrealproject\\intermediate\\build\\win64\\myunrealprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\82103\\documents\\unreal projects\\myunrealproject\\intermediate\\build\\win64\\unrealeditor\\development\\myunrealproject\\definitions.myunrealproject.h",
+            "c:\\users\\82103\\documents\\unreal projects\\myunrealproject\\source\\myunrealproject\\myunrealproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyUnRealProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyUnRealProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyUnRealProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyUnRealProject">
+      <UniqueIdentifier>{7BC73432-5DEE-3379-B656-2FB54F0A7D1E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyUnRealProject\MyUnRealProject.Build.cs">
+      <Filter>Source\MyUnRealProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyUnRealProject\MyUnRealProject.cpp">
+      <Filter>Source\MyUnRealProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyUnRealProject\MyUnRealProject.h">
+      <Filter>Source\MyUnRealProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyUnRealProject\MyUnRealProjectGameModeBase.cpp">
+      <Filter>Source\MyUnRealProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyUnRealProject\MyUnRealProjectGameModeBase.h">
+      <Filter>Source\MyUnRealProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
