@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestSever.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\82103\Documents\Unreal Projects\TestSever\Intermediate\Build\Win64\TestSeverEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\82103\Documents\Unreal Projects\TestSever\Intermediate\Build\Win64\UnrealEditor\Development\TestSever\TestSever.cpp.obj"
+"C:\Users\82103\Documents\Unreal Projects\TestSever\Intermediate\Build\Win64\UnrealEditor\Development\TestSever\TestSeverGameModeBase.cpp.obj"
+"C:\Users\82103\Documents\Unreal Projects\TestSever\Intermediate\Build\Win64\UnrealEditor\Development\TestSever\TestSever.init.gen.cpp.obj"
+"C:\Users\82103\Documents\Unreal Projects\TestSever\Intermediate\Build\Win64\UnrealEditor\Development\TestSever\TestSeverGameModeBase.gen.cpp.obj"
+"C:\Users\82103\Documents\Unreal Projects\TestSever\Intermediate\Build\Win64\UnrealEditor\Development\TestSever\Default.rc2.res"
+/OUT:"C:\Users\82103\Documents\Unreal Projects\TestSever\Intermediate\Build\Win64\UnrealEditor\Development\TestSever\UnrealEditor-TestSever.lib"

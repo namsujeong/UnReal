@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\82103\\documents\\unreal projects\\testsever\\source\\testsever\\testsever.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\82103\\documents\\unreal projects\\testsever\\intermediate\\build\\win64\\testsevereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\82103\\documents\\unreal projects\\testsever\\intermediate\\build\\win64\\unrealeditor\\development\\testsever\\definitions.testsever.h",
+            "c:\\users\\82103\\documents\\unreal projects\\testsever\\source\\testsever\\testsever.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

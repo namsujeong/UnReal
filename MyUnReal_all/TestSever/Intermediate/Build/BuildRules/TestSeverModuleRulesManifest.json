@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\82103\\Documents\\Unreal Projects\\TestSever\\Source\\TestSever\\TestSever.Build.cs",
+		"C:\\Users\\82103\\Documents\\Unreal Projects\\TestSever\\Source\\TestSever.Target.cs",
+		"C:\\Users\\82103\\Documents\\Unreal Projects\\TestSever\\Source\\TestSeverEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
